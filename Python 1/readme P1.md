@@ -7,7 +7,7 @@
 
 ---
 
-## Overview *(In Place of Abstract)*
+## Overview 
 
 This collection of Python programs explores a set of advanced, and often underutilized, language features — decorators, generators, memoization, and functional programming constructs — demonstrating them both as conceptual learning instruments and as foundational components of real-world industrial systems.
 
@@ -17,7 +17,7 @@ The central objective of this repository is to bridge the gap between theoretica
 
 ---
 
-## Context and Purpose *(In Place of Introduction)*
+## Context and Purpose 
 
 Python is a language that scales with the engineer's understanding of it. The same language that supports introductory scripting also underpins production-grade data pipelines, API backends, machine learning infrastructure, and industrial monitoring systems. What separates functional Python from well-engineered Python is not syntax — it is design thinking: knowing *when* to cache, *when* to stream, *when* to abstract access control into a reusable layer rather than repeating it across functions.
 
