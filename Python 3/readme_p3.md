@@ -1,7 +1,7 @@
 # Functional Programming, Exception Handling, Performance Profiling, and Debugging in Python
 ### A Technical Reference on Lambda Expressions, Functional Pipelines, Custom Exceptions, Exception Chaining, CPU Profiling, and Structured Debugging
 
-**Author:** Kevin Victor | SY-5, Roll No. 30
+**Author:** Kevin Victor
 **Domain:** Python — Functional Programming, Error Management, Performance Engineering, Debugging Methodology
 **Status:** Demonstrative & Applied
 
