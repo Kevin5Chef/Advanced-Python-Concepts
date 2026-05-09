@@ -1,7 +1,7 @@
 # Object-Oriented Programming in Python — Concepts, Applications, and Industrial Relevance
 ### A Technical Reference on Classes, Inheritance, Encapsulation, Polymorphism, and Applied OOP Design Patterns
 
-**Author:** Kevin Victor | SY-5, Roll No. 30
+**Author:** Kevin Victor 
 **Domain:** Python — Object-Oriented Programming, GUI Development, Industrial Simulation
 **Status:** Demonstrative & Applied
 
