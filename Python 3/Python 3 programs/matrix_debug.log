@@ -1,0 +1,76 @@
+[INFO] Using DP-based chain multiplication
+[INFO] Using INCORRECT multiplication
+[INFO] Starting structured debugging process
+[ERROR] Mismatch at cell (0,0) Correct=292023235030375090 Wrong=406228699558381311
+2026-02-14 15:37:45,409 [INFO] Running CORRECT multiplication
+2026-02-14 15:37:45,410 [INFO] Running CORRECT multiplication
+2026-02-14 15:37:45,411 [INFO] Running CORRECT multiplication
+2026-02-14 15:37:45,411 [INFO] Running CORRECT multiplication
+2026-02-14 15:37:58,195 [WARNING] Running INCORRECT multiplication
+2026-02-14 15:37:58,196 [WARNING] Running INCORRECT multiplication
+2026-02-14 15:37:58,200 [WARNING] Running INCORRECT multiplication
+2026-02-14 15:37:58,200 [WARNING] Running INCORRECT multiplication
+2026-02-14 15:38:06,231 [WARNING] Running INCORRECT multiplication
+2026-02-14 15:38:06,232 [WARNING] Running INCORRECT multiplication
+2026-02-14 15:38:06,232 [WARNING] Running INCORRECT multiplication
+2026-02-14 15:38:06,233 [WARNING] Running INCORRECT multiplication
+2026-02-14 15:38:06,233 [INFO] Index alignment verified
+2026-02-14 15:38:06,236 [DEBUG] Pair check k=0
+2026-02-14 15:38:06,236 [DEBUG] Pair check k=1
+2026-02-14 15:38:06,236 [DEBUG] Pair check k=2
+2026-02-14 15:38:06,237 [DEBUG] Pair check k=3
+2026-02-14 15:38:06,237 [DEBUG] Pair check k=4
+2026-02-14 15:38:06,237 [DEBUG] Pair check k=5
+2026-02-14 15:38:06,237 [DEBUG] Pair check k=6
+2026-02-14 15:38:06,238 [DEBUG] Pair check k=7
+2026-02-14 15:38:06,238 [DEBUG] Pair check k=8
+2026-02-14 15:38:06,238 [DEBUG] Pair check k=9
+2026-02-14 15:38:06,238 [INFO] Running CORRECT multiplication
+INFO:Correct multiply step 1
+INFO:Correct multiply step 2
+INFO:Correct multiply step 3
+INFO:Correct multiply step 4
+WARNING:Incorrect multiply step 1
+WARNING:Incorrect multiply step 2
+WARNING:Incorrect multiply step 3
+WARNING:Incorrect multiply step 4
+INFO:Verifying index alignment
+INFO:Printing intermediate row/column pairs
+INFO:Pair: 9 * 48
+INFO:Pair: 14 * 17
+INFO:Pair: 2 * 42
+INFO:Pair: 25 * 2
+INFO:Pair: 41 * 48
+INFO:Reconstruction with corrected indexing
+INFO:Verifying index alignment
+INFO:Printing intermediate row/column pairs
+INFO:Pair: 13270 * 23
+INFO:Pair: 15619 * 29
+INFO:Pair: 17749 * 69
+INFO:Pair: 18599 * 34
+INFO:Pair: 12741 * 79
+INFO:Reconstruction with corrected indexing
+INFO:Verifying index alignment
+INFO:Printing intermediate row/column pairs
+INFO:Pair: 8114690 * 92
+INFO:Pair: 10663407 * 65
+INFO:Pair: 11897144 * 25
+INFO:Pair: 9272958 * 80
+INFO:Pair: 8851741 * 26
+INFO:Reconstruction with corrected indexing
+INFO:Verifying index alignment
+INFO:Printing intermediate row/column pairs
+INFO:Pair: 4821332829 * 6
+INFO:Pair: 3424248527 * 85
+INFO:Pair: 4877997007 * 82
+INFO:Pair: 4002694664 * 91
+INFO:Pair: 5985099018 * 40
+INFO:Reconstruction with corrected indexing
+INFO:Correct multiplication step 1
+INFO:Correct multiplication step 2
+INFO:Correct multiplication step 3
+INFO:Correct multiplication step 4
+WARNING:Incorrect multiplication step 1
+WARNING:Incorrect multiplication step 2
+WARNING:Incorrect multiplication step 3
+WARNING:Incorrect multiplication step 4
